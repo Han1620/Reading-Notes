@@ -5,7 +5,7 @@ Hi, my name is Hannah. I am new to coding, and excited to learn.
 I ***love*** art, playing sports and puzzles! 😄
 
 ### **What is this website**?
-This is my reading notes for the full stack bootcamp. This is my first experience using GitHub. Here is my GitHub [portfolio page.](https://canvas.instructure.com/dashboard/eportfolios)
+This is my reading notes for the full stack bootcamp. This is my first experience using GitHub. Here is my GitHub [portfolio page.](https://github.com/Han1620)
 
 ### **What is Growth Mindset**?
 Growth mindset is a learning appraoch. Meaning you have the ability to learn things that you do not currently know.
