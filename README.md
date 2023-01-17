@@ -5,14 +5,16 @@
 
 **Code 102**
 
-- [Class 01](code-102/class01.md)
-- [Class 02](code-102/class02.md)
-- [Class 03](code-102/class03.md)
-- [Class 04](code-102/class04.md)
-- [Class 05](code-102/class05.md)
-- [Class 06](code-102/class06.md)
-- [Class 07](code-102/class07.md)
-- [Class 08](code-102/class08.md)
+- Class 01 - [Learning Markdown](code-102/class01.md)
+- Class 02 - [The Coders Computer](code-102/class02.md)
+- Class 03 - [Revisions and the Cloud](code-102/class03.md)
+- Class 04 - [Structure Web Pages with HTML](code-102/class04.md)
+- Class 05 - [Design Web Pages with CSS](code-102/class05.md)
+- Class 06 - [Programming with JavaScript](code-102/class06.md)
+- Class 07 - [Operators and Loops](code-102/class07.md)
+- Class 08 - [Career Coaching](code-102/class08.md)
+- Class 09 - [Career Coaching](code-102/class09.md)
+
 
 **Code 201**
 
