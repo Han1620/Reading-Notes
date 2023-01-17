@@ -38,6 +38,8 @@
 
 
 
+# Introduction
+
 ### **Who am I**? <sub> ...and what are my interests? </sub>
 Hi, my name is Hannah. I am new to coding, and excited to learn. 
 I ***love*** art, playing sports and puzzles! 😄
