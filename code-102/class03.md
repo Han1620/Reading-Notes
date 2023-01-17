@@ -18,17 +18,17 @@ Key points of of Git:
 
 ## Git Commands I have Used Through Ubuntu 
 
--To enter a folder = cd 'name of folder'
+- To enter a folder = cd 'name of folder'
 
--To autocomplete = TAB
+- To autocomplete = TAB
 
--To see which folder youre in = ls
+- To see which folder youre in = ls
 
--To go back to previous file position: cd ..
+- To go back to previous file position: cd ..
 
--To create a folder = mkdir 'name of new folder '
+- To create a folder = mkdir 'name of new folder '
 
--To create a file = touch 'name of file'
+- To create a file = touch 'name of file'
 
 
 ### Steps to uploading to GITHUB:
@@ -37,9 +37,9 @@ Key points of of Git:
 2. git commit -m "reference of change"
 3. git push origin main
 
--To check = git status 
+- To check = git status 
 
--To force a push = git push -f
+- To force a push = git push -f
 
 ### Steps for cloning to GIT
 
