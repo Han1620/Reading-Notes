@@ -7,7 +7,7 @@
 
 - Class 01
 - Class 02
-- Class 03
+- [Class 03](code-102/class03.md)
 - Class 04
 - Class 05
 - Class 06
