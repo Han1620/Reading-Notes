@@ -27,3 +27,27 @@ You build your page using elements called <tags>
 - **<footer></footer>:** Last sub-section of the body. Footer tags contain the sub text of the website, such as copyright info.
 
 ![htmlStructure](https://zellwk.com/images/2014/03/3-2.jpg)
+
+**Common HTML element tags**
+
+- **_<li>_** List Item Element
+  The **_<li>_** list item element create list items inside:
+
+  - Ordered lists <ol>
+  - Unordered lists <ul>
+
+- **_<video>_** Video Element
+  The **_<video>_** element embeds a media player for video playback. The src attribute will contain the URL to the video. Adding the controls attribute will display video controls in the media player.
+
+  Note: The content inside the opening and closing tag is shown as a fallback in browsers that don’t support the element.
+
+        <video src="test-video.mp4" controls>
+        Video not supported
+        </video>
+
+- **_<em>_** Emphasis Element
+  The **_<em>_** emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
+
+- **_Attribute Name and Values_**
+  HTML attributes consist of a name and a value using the following syntax: name="value" and can be added to the opening tag of an HTML element to configure or change the behavior of the element.
+  <elementName name="value"></elementName>
